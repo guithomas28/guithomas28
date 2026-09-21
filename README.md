@@ -60,9 +60,5 @@ Meu objetivo é aprofundar meus conhecimentos em arquitetura de soluções na nu
 * Amazon CloudWatch
 * AWS CloudFormation
 * Arquiteturas Serverless
-* Projetos utilizando o AWS Free Tier
 
----
-
-> **"Learning by building."** ☁️
 
